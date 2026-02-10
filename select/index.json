@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いつかのキミへ",
+  "base_artist": "ノクチル",
+  "createdAt": "2026-02-10T05:32:40.107719Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつかのキミへ",
+      "artist": "ノクチル",
+      "has_synced": false,
+      "path": "select/pl_01_いつかのキミへ_ノクチル.txt"
+    }
+  ]
+}
